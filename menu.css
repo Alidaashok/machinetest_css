@@ -1,0 +1,56 @@
+.main{
+    
+    display: inline-block;
+    border: 2px solid black;
+   
+    
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.a{
+    display: inline-block;
+    margin-left: 1000px;
+    margin-bottom: 10px;
+    padding-right: 50px;
+}
+.b{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.c{
+    display: inline-block;
+ 
+}
+
+.d{
+    display: inline-block;
+    
+   
+}
+.menu{
+    border: 2px double gray;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    height: 50vh;
+    gap: 10px;
+    color: RED;
+   background-color: aquamarine;
+
+}
+.m{
+    margin-left: 700px;
+    color: blue;
+    text-decoration: underline;
+}
+.d{
+    width: 150px;
+    margin-left:1100px;
+}
+.g{
+    width: 150px;
+    margin-left:1100px;
+}

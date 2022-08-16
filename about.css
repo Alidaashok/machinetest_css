@@ -1,0 +1,45 @@
+.main{
+    
+    display: inline-block;
+    border: 2px solid black;
+   
+    
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.a{
+    display: inline-block;
+    margin-left: 1000px;
+    margin-bottom: 10px;
+    padding-right: 20px;
+}
+.b{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.c{
+    display: inline-block;
+ 
+}
+
+.d{
+    display: inline-block;
+    
+   
+}
+.about{
+    align-items: center;
+    margin-left: 600px;
+}
+.h2ab{
+    color: red;
+}
+.h3ab{
+    color: blue;
+    align-items: center;
+    margin-right: 600px;
+}
